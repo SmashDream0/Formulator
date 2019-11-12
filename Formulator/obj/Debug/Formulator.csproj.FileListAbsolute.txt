@@ -1,0 +1,20 @@
+F:\vs\Formulator\Formulator\bin\Debug\Formulator.dll
+F:\vs\Formulator\Formulator\bin\Debug\Formulator.pdb
+F:\vs\Formulator\Formulator\obj\Debug\Formulator.csprojResolveAssemblyReference.cache
+F:\vs\Formulator\Formulator\obj\Debug\Formulator.dll
+F:\vs\Formulator\Formulator\obj\Debug\Formulator.pdb
+F:\vs\Tools\Formulator\Formulator\bin\Debug\Formulator.dll
+F:\vs\Tools\Formulator\Formulator\bin\Debug\Formulator.pdb
+F:\vs\Tools\Formulator\Formulator\obj\Debug\Formulator.dll
+F:\vs\Tools\Formulator\Formulator\obj\Debug\Formulator.pdb
+C:\Users\kruglov\Documents\Visual Studio 2017\Projects\Projects\Tools\Formulator\Formulator\bin\Debug\Formulator.dll
+C:\Users\kruglov\Documents\Visual Studio 2017\Projects\Projects\Tools\Formulator\Formulator\bin\Debug\Formulator.pdb
+C:\Users\kruglov\Documents\Visual Studio 2017\Projects\Projects\Tools\Formulator\Formulator\bin\Debug\System.Net.Http.dll
+C:\Users\kruglov\Documents\Visual Studio 2017\Projects\Projects\Tools\Formulator\Formulator\bin\Debug\System.Net.Http.xml
+C:\Users\kruglov\Documents\Visual Studio 2017\Projects\Projects\Tools\Formulator\Formulator\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\kruglov\Documents\Visual Studio 2017\Projects\Projects\Tools\Formulator\Formulator\obj\Debug\Formulator.csprojResolveAssemblyReference.cache
+C:\Users\kruglov\Documents\Visual Studio 2017\Projects\Projects\Tools\Formulator\Formulator\obj\Debug\Formulator.csproj.CoreCompileInputs.cache
+C:\Users\kruglov\Documents\Visual Studio 2017\Projects\Projects\Tools\Formulator\Formulator\obj\Debug\Formulator.dll
+C:\Users\kruglov\Documents\Visual Studio 2017\Projects\Projects\Tools\Formulator\Formulator\obj\Debug\Formulator.pdb
+F:\vs\Tools\Formulator\Formulator\obj\Debug\Formulator.csprojAssemblyReference.cache
+F:\vs\Tools\Formulator\Formulator\obj\Debug\Formulator.csproj.CoreCompileInputs.cache
